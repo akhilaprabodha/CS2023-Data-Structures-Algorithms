@@ -2,10 +2,6 @@
 
 This repository contains lab exercises to reinforce key concepts and practical implementations essential for computer science.
 
----
-![1645599766887](https://github.com/LasithaAmarasinghe/CS-2023-Data-Structures-Algorithms/assets/106037441/024193da-f145-4b59-a27a-0e3e23ffa933)
-
-
 ## Module Outline
 
 ### Complexity Analysis
